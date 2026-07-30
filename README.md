@@ -50,17 +50,17 @@ Data Mart Marketing
 Power BI
 ```
 
-### **🚀 Principais indicadores **--
-     
-Receita Total
-Ticket Médio
-LTV Médio
-Frequência Média de Compra
-Tempo Médio de Relacionamento
-Dias sem Compra
-Top 10 Clientes por LTV
-Distribuição dos Clientes por Categoria
-LTV Médio por País
+## Indicadores do Dashboard
+
+- Receita Total
+- Ticket Médio
+- LTV Médio
+- Frequência Média de Compra
+- Tempo Médio de Relacionamento
+- Dias Médios sem Compra
+- Top 10 Clientes por LTV
+- Distribuição dos Clientes por Categoria
+- LTV Médio por País
 
 
 
