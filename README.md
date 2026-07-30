@@ -29,28 +29,26 @@ Projeto de Business Intelligence desenvolvido para analisar o Lifetime Value (LT
 - Data Mart
 -------------------
 
-### **🚀 Arquitetura **
+## Arquitetura
 
+```text
 CSV
-    │
-    ▼
-
+ │
+ ▼
 Bronze
-    │
-    ▼
-
+ │
+ ▼
 Silver
-    │
-    ▼
-
+ │
+ ▼
 Gold
-    │
-    ▼
-
+ │
+ ▼
 Data Mart Marketing
-    │
-    ▼
-------------------
+ │
+ ▼
+Power BI
+```
 
 ### **🚀 Principais indicadores **--
      
