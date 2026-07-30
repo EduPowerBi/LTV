@@ -18,14 +18,15 @@ Projeto de Business Intelligence desenvolvido para analisar o Lifetime Value (LT
 - Desenvolver um dashboard executivo em Power BI
 ---
 
-### **🚀 Tecnologias **
-SQL Server
-Power BI
-DAX
-Modelagem Dimensional
-ETL
-Data Warehouse
-Data Mart
+## Tecnologias
+
+- SQL Server
+- Power BI
+- DAX
+- Modelagem Dimensional
+- ETL
+- Data Warehouse
+- Data Mart
 -------------------
 
 ### **🚀 Arquitetura **
