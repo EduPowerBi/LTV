@@ -25,7 +25,8 @@ Modelagem Dimensional
 ETL
 Data Warehouse
 Data Mart
----
+-------------------
+
 ### **🚀 Arquitetura **
 
 CSV
@@ -47,6 +48,7 @@ Gold
 Data Mart Marketing
     │
     ▼
+------------------
 
 ### **🚀 Principais indicadores **--
      
