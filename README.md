@@ -15,3 +15,13 @@ Desenvolver um Data Mart de Marketing
 Calcular o LTV dos clientes
 Criar indicadores estratégicos
 Desenvolver um dashboard executivo em Power BI
+
+
+### **🚀 Tecnologias **
+SQL Server
+Power BI
+DAX
+Modelagem Dimensional
+ETL
+Data Warehouse
+Data Mart
