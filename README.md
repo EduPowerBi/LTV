@@ -61,7 +61,3 @@ Power BI
 - Top 10 Clientes por LTV
 - Distribuição dos Clientes por Categoria
 - LTV Médio por País
-
-
-
-Power BI
