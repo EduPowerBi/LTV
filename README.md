@@ -1,4 +1,4 @@
-# 📊 Monitoramento da Lei Orçamentária Anual (LOA 2025) - Guarulhos
+# 📊 Análise de Lifetime Value (LTV) com SQL Server e Power BI
 
 <img width="1265" height="737" alt="image" src="https://github.com/user-attachments/assets/5654c8d6-f3ad-4526-b26d-df40131f8307" />
 
